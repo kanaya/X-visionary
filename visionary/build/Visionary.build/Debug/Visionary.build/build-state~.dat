@@ -1,0 +1,531 @@
+TVisionary
+v7
+r0
+t287743618.477445
+cCheck dependencies
+cProcessInfoPlistFile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Info.plist Visionary-Info.plist
+cCpResource build/Debug/Visionary.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kanaya/Desktop/Visionary/Visionary/English.lproj/MainMenu.xib
+cCompileXIB /Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib
+cCpResource build/Debug/Visionary.app/Contents/Resources/sample.mov sample.mov
+cProcessPCH /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch.gch Visionary_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/VisionaryDoc.mom /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.xcdatamodel
+cCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDoc-528B0CF58FE91DC2.o /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/main.o /Users/kanaya/Desktop/Visionary/Visionary/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryController.o /Users/kanaya/Desktop/Visionary/Visionary/VisonaryController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryQTMovieView.o /Users/kanaya/Desktop/Visionary/Visionary/VisionaryQTMovieView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/MacOS/Visionary normal x86_64
+cTouch /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B50402C00000000000000EE
+t1263550508
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004B448004000000000000043A
+t1262780420
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B447F4E00000000000013E6
+t1262780238
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTKit.h
+c000000004B449795000000000000044A
+t1262786453
+s1098
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B44869A00000000000000BF
+t1262782106
+s191
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC326060000000000002DF5
+t1254303238
+s11765
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004AD8695500000000006613B0
+t1255696725
+s6689712
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004ADE5FA10000000000CF0BE0
+t1256087457
+s13568992
+
+N/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/Credits.rtf
+c000000004B737B7A00000000000001B4
+t1265859450
+s436
+
+N/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/InfoPlist.strings
+c000000004B737B7A000000000000005A
+t1265859450
+s90
+
+N/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/MainMenu.xib
+c000000004B737B7A00000000000216CD
+t1265859450
+s136909
+
+N/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/MyDocument.xib
+c000000004B737B7A0000000000002C83
+t1265859450
+s11395
+
+N/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib
+c000000004B766306000000000003DF03
+t1266049798
+s253699
+
+N/Users/kanaya/Desktop/Visionary/Visionary/MyDocument.h
+c000000004B737B7A00000000000000D5
+t1265859450
+s213
+i<Cocoa/Cocoa.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/MyDocument.m
+c000000004B737B7A0000000000000221
+t1265859450
+s545
+i"MyDocument.h"
+
+N/Users/kanaya/Desktop/Visionary/Visionary/MyDocument.xcdatamodel
+c000000004B737B7A0000000000000088
+t1265859450
+s136
+
+N/Users/kanaya/Desktop/Visionary/Visionary/Visionary.h
+c000000004B737BA400000000000000D6
+t1265859492
+s214
+i<Cocoa/Cocoa.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/Visionary.m
+c000000004B737BC10000000000000220
+t1265859521
+s544
+i"Visionary.h"
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisionaryController.h
+c000000004B740FBF000000000000077C
+t1265897407
+s1916
+i<Foundation/Foundation.h>
+i<QTKit/QTKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.h
+c000000004B737BA400000000000000D6
+t1265859492
+s214
+i<Cocoa/Cocoa.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.m
+c000000004B73805A0000000000000226
+t1265860698
+s550
+i"VisionaryDoc.h"
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.xcdatamodel
+c000000004B737B7A0000000000000088
+t1265859450
+s136
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDropBox.h
+c000000004B73C36400000000000000DC
+t1265877860
+s220
+i<Foundation/Foundation.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDropBox.m
+c000000004B73CA4800000000000004C4
+t1265879624
+s1220
+i"VisionaryDropBox.h"
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisionaryQTMovieView.h
+c000000004B73CF37000000000000014A
+t1265880887
+s330
+i<Foundation/Foundation.h>
+i<QTKit/QTKit.h>
+i"VisionaryController.h"
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisionaryQTMovieView.m
+c000000004B73DB27000000000000049A
+t1265883943
+s1178
+i"VisionaryQTMovieView.h"
+
+N/Users/kanaya/Desktop/Visionary/Visionary/Visionary_Prefix.pch
+c000000004B737B7A00000000000000DD
+t1265859450
+s221
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisonaryControl.h
+c000000004B73CAFA000000000000070A
+t1265879802
+s1802
+i<Foundation/Foundation.h>
+i<QTKit/QTKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisonaryControl.m
+c000000004B73CC11000000000000150D
+t1265880081
+s5389
+i<stdlib.h>
+i"VisonaryControl.h"
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisonaryController.h
+c000000004B73D124000000000000074D
+t1265881380
+s1869
+i<Foundation/Foundation.h>
+i<QTKit/QTKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/VisonaryController.m
+c000000004B7666A50000000000001A3D
+t1266050725
+s6717
+i<stdlib.h>
+i"VisionaryController.h"
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app
+t1266050818
+s102
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Info.plist
+t1266050810
+s2500
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/MacOS/Visionary
+t1266050818
+s33816
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/PkgInfo
+t1266050810
+s8
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/Credits.rtf
+t1266050810
+s436
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1266050810
+s90
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/MainMenu.nib
+t1266050811
+s30767
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/MyDocument.nib
+t2
+s0
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/VisionaryDoc.nib
+t1266050811
+s49358
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/MyDocument.mom
+t2
+s0
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/VisionaryDoc.mom
+t1266050817
+s488
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/sample.mov
+t1266050811
+s245779
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+t2
+s0
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/MyDocument.o
+t2
+s0
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/Visionary.LinkFileList
+c000000004B7666FA0000000000000203
+t1266050810
+s515
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/Visionary.o
+t2
+s0
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDoc-528B0CF58FE91DC2.o
+t1266050817
+s19228
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDropBox.o
+t1265879626
+s17864
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryQTMovieView.o
+t1266050818
+s21568
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryControl.o
+t1265880458
+s46372
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryController.o
+t1266050818
+s51088
+
+N/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/main.o
+t1266050818
+s5000
+
+N/Users/kanaya/Desktop/Visionary/Visionary/main.m
+c000000004B737B7A00000000000000F7
+t1265859450
+s247
+i<Cocoa/Cocoa.h>
+
+N/Users/kanaya/Desktop/Visionary/Visionary/sample.mov
+c00000000436A2BEC000000000003C013
+t1131031532
+s245779
+
+N/var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-cuqqxzehptajbzevsnddkvqcifux/Visionary_Prefix.pch.gch
+t1265863952
+s54208272
+
+N/var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch.gch
+t1266050817
+s54216464
+
+NVisionary-Info.plist
+c000000004B738DF50000000000000A6A
+t1265864181
+s2666
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287743610#287743610#0(0"0(0#1#0"4300903632#0"0#
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/kanaya/Desktop/Visionary/Visionary/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/MyDocument.o /Users/kanaya/Desktop/Visionary/Visionary/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/Visionary.o /Users/kanaya/Desktop/Visionary/Visionary/Visionary.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDoc-528B0CF58FE91DC2.o /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287743617.733239
+e287743617.916174
+r1
+xCompileC
+xbuild/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDoc-528B0CF58FE91DC2.o
+x/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.m287743617#287743617#0(0"0(0#0#56"/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.m4300903632#1180"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Visionary.hmap -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -I/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/include -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources/x86_64 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources -include /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch -c /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.m -o /Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDoc-528B0CF58FE91DC2.o0#
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDropBox.o /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDropBox.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287572425.694128
+e287572426.149114
+r1
+xCompileC
+xbuild/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDropBox.o
+x/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDropBox.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDropBox.m287572425#287572426#0(0"0(0#0#60"/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDropBox.m4300903632#1171"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Visionary.hmap -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -I/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/include -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources/x86_64 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources -include /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch -c /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDropBox.m -o /Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryDropBox.o0#
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryQTMovieView.o /Users/kanaya/Desktop/Visionary/Visionary/VisionaryQTMovieView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287743618.175273
+e287743618.424682
+r1
+xCompileC
+xbuild/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryQTMovieView.o
+x/Users/kanaya/Desktop/Visionary/Visionary/VisionaryQTMovieView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kanaya/Desktop/Visionary/Visionary/VisionaryQTMovieView.m287743618#287743618#0(0"0(0#0#64"/Users/kanaya/Desktop/Visionary/Visionary/VisionaryQTMovieView.m4300903632#1179"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Visionary.hmap -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -I/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/include -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources/x86_64 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources -include /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch -c /Users/kanaya/Desktop/Visionary/Visionary/VisionaryQTMovieView.m -o /Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisionaryQTMovieView.o0#
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryControl.o /Users/kanaya/Desktop/Visionary/Visionary/VisonaryControl.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287573258.265117
+e287573259.060923
+r1
+xCompileC
+xbuild/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryControl.o
+x/Users/kanaya/Desktop/Visionary/Visionary/VisonaryControl.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/kanaya/Desktop/Visionary/Visionary/VisonaryControl.m287573258#287573259#0(0"0(0#0#59"/Users/kanaya/Desktop/Visionary/Visionary/VisonaryControl.m4300903632#1169"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Visionary.hmap -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -I/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/include -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources/x86_64 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources -include /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch -c /Users/kanaya/Desktop/Visionary/Visionary/VisonaryControl.m -o /Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryControl.o0#
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryController.o /Users/kanaya/Desktop/Visionary/Visionary/VisonaryController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287743617.946938
+e287743618.361366
+r1
+xCompileC
+xbuild/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryController.o
+x/Users/kanaya/Desktop/Visionary/Visionary/VisonaryController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kanaya/Desktop/Visionary/Visionary/VisonaryController.m287743617#287743618#0(0"0(0#0#62"/Users/kanaya/Desktop/Visionary/Visionary/VisonaryController.m4300903632#1175"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Visionary.hmap -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -I/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/include -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources/x86_64 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources -include /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch -c /Users/kanaya/Desktop/Visionary/Visionary/VisonaryController.m -o /Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/VisonaryController.o0#
+
+CCompileC build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/main.o /Users/kanaya/Desktop/Visionary/Visionary/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287743617.916359
+e287743618.175170
+r1
+xCompileC
+xbuild/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/main.o
+x/Users/kanaya/Desktop/Visionary/Visionary/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/kanaya/Desktop/Visionary/Visionary/main.m287743617#287743618#0(0"0(0#0#48"/Users/kanaya/Desktop/Visionary/Visionary/main.m4300903632#1147"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Visionary.hmap -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -I/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/include -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources/x86_64 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources -include /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch -c /Users/kanaya/Desktop/Visionary/Visionary/main.m -o /Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kanaya/Desktop/Visionary/Visionary/English.lproj/MainMenu.xib
+s287743610.796909
+e287743611.486357
+r1
+xCompileXIB
+x/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib287743610#287743611#0(0"0(0#0#68"/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/MainMenu.xib4300903632#338"    cd /Users/kanaya/Desktop/Visionary/Visionary    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kanaya/Desktop/Visionary/Visionary/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/kanaya/Desktop/Visionary/Visionary/English.lproj/MyDocument.xib
+r0
+
+CCompileXIB /Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib
+s287743610.996915
+e287743611.785693
+r1
+xCompileXIB
+x/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib:100054: warning: The property "Border Color" only applies to boxes with box type NSCustomBox and border type NSLineBorder.
+o/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib:100054: warning: The property "Fill Color" only applies to boxes with box type NSCustomBox and border type NSLineBorder.
+lSLF07#2@41"CompileXIB English.lproj/VisionaryDoc.xib287743610#287743611#0(431"/* com.apple.ibtool.document.warnings *//Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib:100054: warning: The property "Border Color" only applies to boxes with box type NSCustomBox and border type NSLineBorder./Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib:100054: warning: The property "Fill Color" only applies to boxes with box type NSCustomBox and border type NSLineBorder.2(22@105"The property "Border Color" only applies to boxes with box type NSCustomBox and border type NSLineBorder.287743611#18446744073709551615#0#0(6@72"/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib287742598#100054#0#100054#0#0"0(22@103"The property "Fill Color" only applies to boxes with box type NSCustomBox and border type NSLineBorder.287743611#18446744073709551615#0#0(6@72"/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib287742598#100054#0#100054#0#0"0(0#0#72"/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib4300903632#346"    cd /Users/kanaya/Desktop/Visionary/Visionary    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/VisionaryDoc.nib /Users/kanaya/Desktop/Visionary/Visionary/English.lproj/VisionaryDoc.xib0#
+
+CCopyStringsFile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s287743610.721378
+e287743610.996831
+r1
+xCopyStringsFile
+x/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings287743610#287743610#0(0"0(0#0#73"/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/InfoPlist.strings4300903632#374"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Visionary.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s287743610.720457
+e287743610.796819
+r1
+xCpResource
+xbuild/Debug/Visionary.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf287743610#287743610#0(0"0(0#0#67"/Users/kanaya/Desktop/Visionary/Visionary/English.lproj/Credits.rtf4300903632#366"    cd /Users/kanaya/Desktop/Visionary/Visionary    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kanaya/Desktop/Visionary/Visionary/English.lproj/Credits.rtf /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Visionary.app/Contents/Resources/sample.mov sample.mov
+s287743611.486441
+e287743611.493094
+r1
+xCpResource
+xbuild/Debug/Visionary.app/Contents/Resources/sample.mov
+xsample.mov
+lSLF07#2@15"Copy sample.mov287743611#287743611#0(0"0(0#0#52"/Users/kanaya/Desktop/Visionary/Visionary/sample.mov4300903632#337"    cd /Users/kanaya/Desktop/Visionary/Visionary    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kanaya/Desktop/Visionary/Visionary/sample.mov /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources0#
+
+CDataModelCompile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/MyDocument.mom /Users/kanaya/Desktop/Visionary/Visionary/MyDocument.xcdatamodel
+r0
+
+CDataModelCompile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/VisionaryDoc.mom /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.xcdatamodel
+s287743617.727701
+e287743617.946811
+r1
+xDataModelCompile
+x/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/VisionaryDoc.mom
+x/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.xcdatamodel
+lSLF07#2@74"Compile /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.xcdatamodel287743617#287743617#0(0"0(0#0#66"/Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.xcdatamodel4300903632#277"    cd /Users/kanaya/Desktop/Visionary/Visionary    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/kanaya/Desktop/Visionary/Visionary/VisionaryDoc.xcdatamodel /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Resources/VisionaryDoc.mom0#
+
+CLd /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/MacOS/Visionary normal x86_64
+s287743618.424780
+e287743618.474436
+r1
+xLd
+x/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/MacOS/Visionary
+xnormal
+xx86_64
+lSLF07#2@97"Link /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/MacOS/Visionary287743618#287743618#0(0"0(0#0#0"4300903632#606"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -filelist /Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Objects-normal/x86_64/Visionary.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework QTKit -framework QuartzCore -o /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/MacOS/Visionary0#
+
+CProcessInfoPlistFile /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Info.plist Visionary-Info.plist
+s287743610.664162
+e287743610.720262
+r1
+xProcessInfoPlistFile
+x/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Info.plist
+xVisionary-Info.plist
+lSLF07#2@28"Process Visionary-Info.plist287743610#287743610#0(0"0(0#0#62"/Users/kanaya/Desktop/Visionary/Visionary/Visionary-Info.plist4300903632#325"    cd /Users/kanaya/Desktop/Visionary/Visionary    builtin-infoPlistUtility Visionary-Info.plist -genpkginfo /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-cuqqxzehptajbzevsnddkvqcifux/Visionary_Prefix.pch.gch Visionary_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287556747.957061
+e287556752.970704
+r1
+xProcessPCH
+x/var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-cuqqxzehptajbzevsnddkvqcifux/Visionary_Prefix.pch.gch
+xVisionary_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Visionary_Prefix.pch287556747#287556752#0(0"0(0#0#62"/Users/kanaya/Desktop/Visionary/Visionary/Visionary_Prefix.pch4300903632#1033"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Visionary.hmap -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -I/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/include -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources/x86_64 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources -c /Users/kanaya/Desktop/Visionary/Visionary/Visionary_Prefix.pch -o /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-cuqqxzehptajbzevsnddkvqcifux/Visionary_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch.gch Visionary_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287743611.785800
+e287743617.727434
+r1
+xProcessPCH
+x/var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch.gch
+xVisionary_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Visionary_Prefix.pch287743611#287743617#0(0"0(0#0#62"/Users/kanaya/Desktop/Visionary/Visionary/Visionary_Prefix.pch4300903632#1048"    cd /Users/kanaya/Desktop/Visionary/Visionary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/Visionary.hmap -F/Users/kanaya/Desktop/Visionary/Visionary/build/Debug -I/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/include -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources/x86_64 -I/Users/kanaya/Desktop/Visionary/Visionary/build/Visionary.build/Debug/Visionary.build/DerivedSources -c /Users/kanaya/Desktop/Visionary/Visionary/Visionary_Prefix.pch -o /var/folders/Zh/ZhGfC1CBGi4AYyJRBUkyHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visionary_Prefix-exrltahxclimlrgqmmfldcjtqhol/Visionary_Prefix.pch.gch0#
+
+CTouch /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app
+s287743618.474526
+e287743618.477409
+r1
+xTouch
+x/Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app
+lSLF07#2@73"Touch /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app287743618#287743618#0(0"0(0#0#0"4300903632#139"    cd /Users/kanaya/Desktop/Visionary/Visionary    /usr/bin/touch -c /Users/kanaya/Desktop/Visionary/Visionary/build/Debug/Visionary.app0#
+
